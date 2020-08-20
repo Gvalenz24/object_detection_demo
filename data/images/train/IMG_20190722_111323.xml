@@ -1,0 +1,26 @@
+<annotation>
+	<folder>R5Hawei_10días</folder>
+	<filename>IMG_20190722_111323.jpg</filename>
+	<path>E:\Naru\Documents\R5HUAWEI_Y9_13MP\R5Hawei_10días\IMG_20190722_111323.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3120</width>
+		<height>4160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pupa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1557</xmin>
+			<ymin>2488</ymin>
+			<xmax>1983</xmax>
+			<ymax>2771</ymax>
+		</bndbox>
+	</object>
+</annotation>
